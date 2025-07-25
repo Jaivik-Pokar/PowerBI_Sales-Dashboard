@@ -3555,7 +3555,7 @@
       "width": 2300.00
     },
     {
-      "config": "{\"objects\":{\"displayArea\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspace\":[{\"properties\":{\"image\":{\"image\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"''\"}}},\"url\":{\"expr\":{\"Literal\":{\"Value\":\"''\"}}}}}}}]},\"visibility\":1,\"type\":1}",
+      "config": "{\"objects\":{\"displayArea\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspace\":[{\"properties\":{\"image\":{\"image\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"''\"}}},\"url\":{\"expr\":{\"Literal\":{\"Value\":\"''\"}}}}}}}]},\"visibility\":0,\"type\":1}",
       "displayName": "Page 8",
       "displayOption": 3,
       "filters": "[]",
